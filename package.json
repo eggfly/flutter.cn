@@ -12,6 +12,6 @@
     "bootstrap-scss": "^4.6.0",
     "diff2html-cli": "^5.1.11",
     "font-awesome": "^4.7.0",
-    "superstatic": "^7.1.0"
+    "superstatic": "^9.0.3"
   }
 }
